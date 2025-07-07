@@ -15,7 +15,7 @@ const dailyTotal = people.reduce((total,person)=>{
 
 }, 0)
 
-console.log(dailyTotal)
+
 
 
 
